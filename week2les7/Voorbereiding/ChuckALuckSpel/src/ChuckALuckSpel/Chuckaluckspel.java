@@ -13,6 +13,8 @@ public class Chuckaluckspel {
     public void speelronde (int geluksgetal, int inzet) {
         if (geluksgetal <= 6 && geluksgetal >= 1) {
             this.geluksgetal = geluksgetal;
+        }else {
+            return;
         }
         Dobbelbeker dobbelbeker = new Dobbelbeker();
         this.worpen = dobbelbeker.worp();
