@@ -6,9 +6,6 @@ public class Rechthoek extends Figuur{
 
     public Rechthoek(float x, float y, float breedte, float hoogte){
         super(x, y, breedte, hoogte);
-        IReageerder reageerder =  new HalloReageerder("test");
-        voegReageerderToe(reageerder);
-        voegReageerderToe(reageerder);
     }
 
     @Override

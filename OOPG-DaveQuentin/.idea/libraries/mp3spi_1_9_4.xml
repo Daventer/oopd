@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mp3spi-1.9.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/processing/sound/mp3spi/1.9.4/mp3spi-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

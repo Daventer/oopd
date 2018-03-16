@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tritonus_aos-1.9.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/processing/sound/tritonus_aos/1.9.4/tritonus_aos-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

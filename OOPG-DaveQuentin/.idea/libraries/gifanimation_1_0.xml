@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gifanimation-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/processing/gifanimation/1.0/gifanimation-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

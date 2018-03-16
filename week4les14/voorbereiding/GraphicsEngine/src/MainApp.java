@@ -13,9 +13,10 @@ public class MainApp extends PApplet{
     }
 
     public void setup(){
-
         Rechthoek objectA = new Rechthoek(10, 10, 100, 50);
         Rechthoek objectB = new Rechthoek(10, 80, 100, 50);
+        IReageerder reageerder =  new HalloReageerder("test");
+        objectA.voegReageerderToe(reageerder);
         allObjects.add(objectA);
         allObjects.add(objectB);
     }
